@@ -23,7 +23,7 @@ namespace net_heroes_assessment
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bulma.css",
                       "~/Content/site.css"));
         }
     }
